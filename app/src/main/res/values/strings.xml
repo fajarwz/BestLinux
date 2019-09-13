@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BestLinux</string>
+    <string name="name_of_distro">Nama Distro</string>
+    <string name="detail">Detail</string>
+</resources>
